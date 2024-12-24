@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Simona
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Laravel :)
+- 📫 How to reach me - simona.n04@hotmail.com
